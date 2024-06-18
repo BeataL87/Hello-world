@@ -1,2 +1,2 @@
-# qajun24_BeataLis
-# qajun24_BeataLis
+# About my first project on GitHub
+sprawdzam co się stanie
